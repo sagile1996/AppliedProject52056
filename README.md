@@ -82,7 +82,8 @@ These datasets are based on or inspired by data from the two referenced studies 
 
 ## Team
 - **Ofri Ahiel**
-- **Sagi Levin**  
+- **Sagi Levin**
+
 Master’s in Data Science, The Hebrew University of Jerusalem  
 Applied Project - 52056
 
