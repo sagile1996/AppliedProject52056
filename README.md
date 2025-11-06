@@ -63,18 +63,19 @@ These datasets are based on or inspired by data from the two referenced studies 
 ---
 
 ## Repository Structure
-📂 data/
-┣ 📜 ER_data.xlsx
-┗ 📜 column_details.xlsx
-📂 notebooks/
-┗ 📓 text_analysis.ipynb # Jupyter notebooks for exploration & modeling
-📂 src/
-┣ 📜 preprocessing.py
-┣ 📜 analysis.py
-┗ 📜 visualization.py
-📂 reports/
-┗ 📊 figures, charts, and summary outputs
-README.md
+📂 data/  
+&nbsp;&nbsp;┣ 📜 ER_data.xlsx  
+&nbsp;&nbsp;┗ 📜 column_details.xlsx  
+📂 notebooks/  
+&nbsp;&nbsp;┗ 📓 text_analysis.ipynb — Jupyter notebooks for exploration & modeling  
+📂 src/  
+&nbsp;&nbsp;┣ 📜 preprocessing.py  
+&nbsp;&nbsp;┣ 📜 analysis.py  
+&nbsp;&nbsp;┗ 📜 visualization.py  
+📂 reports/  
+&nbsp;&nbsp;┗ 📊 figures, charts, and summary outputs  
+📜 README.md  
+
 
 
 ---
